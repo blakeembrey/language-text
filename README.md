@@ -1,5 +1,7 @@
 # Plain text support in Atom
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/language-text.svg)](https://greenkeeper.io/)
+
 Grammar and snippets for plain text files in Atom.
 
 Originally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)
